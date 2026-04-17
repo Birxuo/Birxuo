@@ -8,7 +8,7 @@
 
 </div>
 
-```console
+``console
 
 <h3 align="center">Software Engineer from Morocco</h3>
 
