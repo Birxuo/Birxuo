@@ -12,7 +12,7 @@
 
 <h3 align="center">Software Engineer from Morocco</h3>
 
-- 🔭 I’m currently working on [BIRXUO AI](https://birxuo.vercel.app)
+- 🔭 I’m currently working on [QuantMesh](https://quantmesh.vercel.app)
 
 - 🌱 I’m currently learning **ML**
 
