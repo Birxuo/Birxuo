@@ -1,8 +1,6 @@
 <div align="center">
   
-## BIRXUO
-
-**Game is in progress.** This is open to ANYONE to play the next move. That's the point. :wave:  It's your turn! Move a white (hollow) piece.
+### BIRXUO
 
 |   | A | B | C | D | E | F | G | H |
 | - | - | - | - | - | - | - | - | - |
